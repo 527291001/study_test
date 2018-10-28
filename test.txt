@@ -7,3 +7,4 @@ hello world!!
 分支！！！
 这是主分支
 分支push测试
+分支普通模式合并 --no-ff
